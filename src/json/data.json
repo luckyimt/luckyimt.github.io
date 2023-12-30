@@ -1,0 +1,279 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "100",
+      "imageUrl": "./media/menu/3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/5.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/6.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "100",
+      "imageUrl": "./media/menu/7.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/8.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/9.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/10.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/11.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿฿100",
+      "imageUrl": "./media/menu/12.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/13.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/14.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/15.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/16.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/17.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/18.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/19.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/20.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/21.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "main-menu",
+      "title": "Menu",
+      "price": "฿100",
+      "imageUrl": "./media/menu/22.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/4.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/5.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/6.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/7.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/8.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/9.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/10.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+
+      "imageUrl": "./media/view/11.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/12.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "view",
+      "title": "view",
+      "imageUrl": "./media/view/13.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Cake Special",
+      "price": "12",
+      "imageUrl": "./media/dessert1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Pup cake Special",
+      "price": "10",
+      "imageUrl": "./media/dessert2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Brownies",
+      "price": "8",
+      "imageUrl": "./media/dessert3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "desserts",
+      "title": "Cup Cake",
+      "price": "15",
+      "imageUrl": "./media/dessert4.jpg"
+    }
+  ],
+  "places": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place1.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place3.jpg"
+    }
+  ]
+}
